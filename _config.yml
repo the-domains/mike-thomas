@@ -1,7 +1,23 @@
-layout_spectrum: 0.5340425
+name: Mike Thomas
+favicon: null
+layout_spectrum: 0.40289
 typography_spectrum: 0.4106383
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  lightness: 0.4255319
+  brandColors: []
   brandStrength: 0.04680851
+  lightness: 0.4255319
   saturation: 0.7680851
   rhythmicContrast: 0.4212766
+purpose: []
