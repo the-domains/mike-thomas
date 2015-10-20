@@ -1,24 +1,36 @@
-name: Mike Thomas
-favicon: null
-layout_spectrum: 0.9951
-typography_spectrum: 0.4106383
 title: Mike Thomas
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.4723404
+favicon: null
+name: Mike Thomas
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  brandColors: []
   brandStrength: 0.04680851
-  lightness: 0.4255319
-  saturation: 0.7680851
-  rhythmicContrast: 0.4212766
-purpose: []
+  lightness: 1
+  saturation: 0.3319149
+  rhythmicContrast: 0.193617
+  brandColors: []
+typography_spectrum: 0.7510638
