@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-20T15:50:37.212Z'
-dateModified: '2015-10-20T15:50:24.200Z'
+datePublished: '2015-10-20T15:51:09.372Z'
+dateModified: '2015-10-20T15:51:03.295Z'
 title: Gorge Creek
 authors: []
 publisher:
