@@ -1,7 +1,7 @@
 name: Mike Thomas
 favicon: null
-layout_spectrum: 0.19457
-typography_spectrum: 0.65353
+layout_spectrum: 0.63113
+typography_spectrum: 0.28192
 title: Mike Thomas
 collections:
   - index:
@@ -28,9 +28,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.04680851
-  lightness: 0.4375
-  saturation: 0.4375
+  brandColors:
+    - '#ac0000'
+    - '#dac46e'
+    - '#51744a'
+    - '#283627'
+    - '#e07600'
+  brandStrength: 0.375
+  lightness: 0.5625
+  saturation: 0.8125
   rhythmicContrast: 0.75
 purpose: []
